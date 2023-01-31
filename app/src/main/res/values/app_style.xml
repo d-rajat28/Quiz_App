@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Quiz_style" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimaryDark">@color/dark_chery_red </item>
+        <item name ="colorPrimary">@color/chery_red</item>
+        <item name="android:windowBackground">@color/off_white</item>
+        <item name="colorAccent">@color/chery_red</item>
+        <item name="android:navigationBarColor" >@color/chery_red</item>
+    </style>
+</resources>

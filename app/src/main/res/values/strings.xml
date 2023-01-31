@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="welcome">Welcome</string>
+    <string name="Rules">
+        <br><b><u>Instruction before Starting the Quiz \n</u></b></br>
+        \n
+        <br>1. There will be total 10 question. \n</br>
+        <br>2. Each question carry one marks. \n</br>
+        <br>3. Answering wrong question will not detected any mark.\n</br>
+        <br>4. Total Time given to solve all problem is 10 minutes. \n</br>
+        <br>5. If the given time is over it will automatically submit
+            your answer. \n</br>
+        <br>6. Press Start to start the Quiz \n</br>
+    </string>
+    <string name="start">Start</string>
+    <string name="time">00:00</string>
+    <string name="submit">Submit</string>
+    <string name="question_title">Question Title</string>
+    <string name="answer_status">Answer Status</string>
+    <string name="bookmark_status">Bookmark Status</string>
+    <string name="answer">Answered</string>
+    <string name="unanswered">Answer</string>
+    <string name="bookmarked">Bookmarked</string>
+    <string name="not_bookmarked">Bookmark</string>
+    <string name="option_no_1">option no 1</string>
+    <string name="option_no_2">option no 2</string>
+    <string name="option_no_3">option no 3</string>
+    <string name="option_no_4">option no 4</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="total_score">Total Score</string>
+    <string name="total_time_taken">Total time taken</string>
+    <string name="restart">Restart</string>
+    <string name="toggle">Bookmark</string>
+    <string name="your_score">YOUR SCORE</string>
+    <string name="exit">Exit</string>
+    <string name="empty"> </string>
+</resources>
